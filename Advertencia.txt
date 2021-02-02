@@ -1,0 +1,2 @@
+A nuestro compañero que tenía los permisos de streamlit le cerraron la cuenta por no verificarse y ya no pudimos hacer el deploy debido a eso.
+Las pruebas las tenemos en fotos que guardamos.
