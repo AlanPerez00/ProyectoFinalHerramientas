@@ -1,0 +1,6 @@
+Paquetes necesarios para correr el proyecto
+
+pip install Pillow
+pip install streamlit
+
+Nota: Es necesario que las imagenes esten en la misma ubicación que los archivos.
